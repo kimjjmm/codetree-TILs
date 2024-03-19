@@ -3,4 +3,4 @@ day = arr[0]
 month = arr[1]
 year = arr[2]
 
-print("{year}.{month}.{day}")
+print(f"{year}.{month}.{day}")
