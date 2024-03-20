@@ -4,5 +4,5 @@ b = int(inp[1])
 
 if a>b:
     print(a-b)
-if a<b:
+elif a<b:
     print(b-a)
