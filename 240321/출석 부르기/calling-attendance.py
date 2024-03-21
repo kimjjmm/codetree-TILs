@@ -1,10 +1,10 @@
 inp = input().split()
 
-if inp=1:
+if inp==1:
     print('John')
-elif inp=2:
+elif inp==2:
     print('Tom')
-elif inp =3:
+elif inp ==3:
     print('Paul')
 else:
     print('Vacancy')
