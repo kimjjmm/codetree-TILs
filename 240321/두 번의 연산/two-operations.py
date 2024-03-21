@@ -5,3 +5,5 @@ if inp%2==1:
 
 if inp%3==0:
     print(int(inp/3))
+else:
+    print(inp)
