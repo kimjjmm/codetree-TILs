@@ -1,6 +1,6 @@
 inp = int(input())
 
-if a >= 113:
+if inp >= 113:
     print(1)
 else:
     print(0)
