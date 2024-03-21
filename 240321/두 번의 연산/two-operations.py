@@ -5,5 +5,4 @@ if inp%2==1:
 
 if inp%3==0:
     res = int(inp/3)
-
-print(res)
+    print(res)
