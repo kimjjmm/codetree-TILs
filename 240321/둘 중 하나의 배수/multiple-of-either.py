@@ -1,4 +1,4 @@
-inp = input().split()
+inp = int(input())
 
 if inp%3==0 or inp%5==0:
     print(1)
