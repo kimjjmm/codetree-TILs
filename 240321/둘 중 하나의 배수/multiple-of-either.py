@@ -1,6 +1,6 @@
 inp = int().split()
 
-if a%3==0 or a%5==0:
+if inp%3==0 or inp%5==0:
     print(1)
 else:
     print(0)
