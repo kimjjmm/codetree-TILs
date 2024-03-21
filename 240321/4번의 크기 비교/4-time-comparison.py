@@ -1,0 +1,11 @@
+a = int(input())
+b = input.split()
+b1 = int(b[0])
+b2 = int(b[1])
+b3 = int(b[2])
+b4 = int(b[3])
+
+print(1 if a>b1 else 0)
+print(1 if a>b2 else 0)
+print(1 if a>b3 else 0)
+print(1 if a>b4 else 0)
