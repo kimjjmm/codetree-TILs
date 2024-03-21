@@ -1,6 +1,6 @@
-inp = input().split()
+inp = int(input())
 
-if inp==1:
+if inp == 1:
     print('John')
 elif inp==2:
     print('Tom')
