@@ -8,4 +8,4 @@ if c =='A':
         print(i, end = " ")
 elif c == 'D':
     for i in range(n,0,-1):
-        print (n, end= ' ')
+        print (i, end= ' ')
