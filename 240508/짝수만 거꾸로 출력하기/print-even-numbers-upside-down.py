@@ -9,4 +9,4 @@ for elem in arr:
 
 
 for value in reversed(arr_even):
-    print(value)
+    print(value, end=" ")
