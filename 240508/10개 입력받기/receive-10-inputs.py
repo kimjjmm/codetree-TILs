@@ -9,4 +9,4 @@ for elem in arr:
     cnt += 1
 
 
-print(sum, sum/cnt)
+print(sum, f"{sum/cnt:.1f}")
