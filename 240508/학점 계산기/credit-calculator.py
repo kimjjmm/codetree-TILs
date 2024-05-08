@@ -5,7 +5,7 @@ arr = list(map(float, input().split()))
 
 for elem in arr:
     sum_val += elem
-avg = sum_val/4
+avg = sum_val/n
 print(f"{avg:.1f}")
 if avg >= 4.0:
     print('Perfect')
